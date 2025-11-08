@@ -1,0 +1,4 @@
+import 'package:lottie/lottie.dart';
+
+
+Lottie.asset('assets/animations/login.json', height: 200),
